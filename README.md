@@ -24,7 +24,9 @@ This repository contains the complete set of lab codes for the Computer Graphics
    - Python 3.x
    - Install dependencies:
      ```bash
-     pip install matplotlib pygame
+     
+     pip install matplotlib
+     pip install pygame
      ```
 
 2. **Running the code**:
